@@ -1,4 +1,4 @@
-# A simple start with Electron + ReactJS
+# Electron + ReactJS
 Electron + ReactJS
 
 This repository was created just to show how we can run Electron + ReactJS. 
